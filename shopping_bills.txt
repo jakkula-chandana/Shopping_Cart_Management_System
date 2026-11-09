@@ -1,7 +1,7 @@
 --- Shopping Bill ---
-Order ID: 65310
-Date: 09-11-2026 20:34:51
-T-Shirt x 1 = Rs.700
-Subtotal: Rs.700
-Discount: Rs.0
-Final Amount: Rs.700
+Order ID: 89903
+Date: 09-11-2026 21:19:34
+T-Shirt x 2 = Rs.1400
+Subtotal: Rs.1400
+Discount: Rs.140.0
+Final Amount: Rs.1260
